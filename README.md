@@ -44,3 +44,16 @@ touch prisma/seed.ts
 # npx prisma migrate reset # DBリセット
 ```
 
+### shadcn/uiの概要・インストール
+
+https://ui.shadcn.com/
+
+```bash
+% npx shadcn@latest init
+base color > Neutral
+Use --force
+% npx shadcn@latest add navigation-menu button input label alert dropdown-menu alert-dialog
+Use --force # 各コンポーネントを src/components/ui にインストール。
+```
+
+
