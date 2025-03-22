@@ -35,3 +35,12 @@
 touch prisma/seed.ts
 ```
 
+### Prisma マイグレーション実行・関連コマンド・Prisma Studio
+
+```bash
+% npx prisma migrate dev --name init # マイグレーション(テーブル作成)
+# npx prisma db seed # シード実行(ダミーデータ)
+% npx prisma studio # DBの内容を確認
+# npx prisma migrate reset # DBリセット
+```
+
