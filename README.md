@@ -25,3 +25,8 @@
 % touch src/lib/prisma.ts # コピペ。
 ```
 
+### Prisma スキーマ (User, Post)
+
+リレーション User 1 : 多 Post
+
+
