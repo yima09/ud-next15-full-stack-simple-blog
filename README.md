@@ -29,4 +29,9 @@
 
 リレーション User 1 : 多 Post
 
+### Prisma 初期データ(ダミーデータ)
+
+```bash
+touch prisma/seed.ts
+```
 
