@@ -7,3 +7,8 @@
 % npm run dev
 ```
 
+### ルーティンググループ作成
+
+```bash
+% mkdir src/app/\(auth\) src/app/\(public\) src/app/\(private\)
+```
