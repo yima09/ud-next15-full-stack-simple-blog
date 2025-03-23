@@ -72,3 +72,14 @@ https://ui.shadcn.com/docs/components/navigation-menu のUsage コピペ編集�
 % rm src/app/page.tsx
 % touch src/app/\(public\)/page.tsx
 ```
+
+### 記事一覧の取得関数、Post型の作成など
+
+```bash
+% touch src/lib/post.ts
+% npm i date-fns@^4 # 日付フォーマット
+% npx shadcn@latest add card
+% mkdir src/types
+% touch src/types/post.ts
+```
+
