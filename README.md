@@ -56,4 +56,12 @@ Use --force
 Use --force # 各コンポーネントを src/components/ui にインストール。
 ```
 
+### Header
+
+https://ui.shadcn.com/docs/components/navigation-menu のUsage コピペ編集。
+
+```bash
+% mkdir src/components/layouts
+% touch src/components/layouts/PublicHeader.tsx
+```
 
