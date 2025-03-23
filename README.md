@@ -91,3 +91,22 @@ https://ui.shadcn.com/docs/components/card のUsage コピペ編集。
 % mkdir src/components/post
 % touch src/components/post/PostCard.tsx
 ```
+
+### 画像最適化・記事一覧ページ
+
+https://nextjs.org/docs/pages/api-reference/components/image
+
+
+
+
+
+
+1記事の取得 準備
+59. 記事詳細の表示
+60. 記事検索機能 事前解説
+61. 記事検索機能 クエリ・コンポーネント
+62. 記事一覧ページで検索できるように対応する
+63. このセクションのまとめ
+
+
+
