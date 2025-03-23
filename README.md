@@ -104,10 +104,12 @@ https://nextjs.org/docs/pages/api-reference/components/image
 % touch src/app/\(public\)/posts/\[id\]/not-found.tsx
 ```
 
+### 記事詳細の表示
 
 
 
-59. 記事詳細の表示
+
+
 60. 記事検索機能 事前解説
 61. 記事検索機能 クエリ・コンポーネント
 62. 記事一覧ページで検索できるように対応する
