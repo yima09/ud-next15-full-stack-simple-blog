@@ -65,3 +65,10 @@ https://ui.shadcn.com/docs/components/navigation-menu のUsage コピペ編集�
 % touch src/components/layouts/PublicHeader.tsx
 ```
 
+### ヘッダー表示確認・不要ファイル削除
+
+```bash
+% cp src/app/layout.tsx src/app/\(public\)/layout.tsx
+% rm src/app/page.tsx
+% touch src/app/\(public\)/page.tsx
+```
