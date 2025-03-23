@@ -96,12 +96,17 @@ https://ui.shadcn.com/docs/components/card のUsage コピペ編集。
 
 https://nextjs.org/docs/pages/api-reference/components/image
 
+### 1記事の取得 準備
+
+```bash
+% mkdir src/app/\(public\)/posts/\[id\]
+% touch src/app/\(public\)/posts/\[id\]/page.tsx
+% touch src/app/\(public\)/posts/\[id\]/not-found.tsx
+```
 
 
 
 
-
-1記事の取得 準備
 59. 記事詳細の表示
 60. 記事検索機能 事前解説
 61. 記事検索機能 クエリ・コンポーネント

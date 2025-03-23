@@ -10,3 +10,11 @@ export async function getPosts() {
     orderBy: { createdAt: "desc" },
   });
 }
+
+// 1記事の取得
+export async function getPost(id: string) {
+  return await prisma.post.findUnique({
+    where: { id },
+    include: { author: { select: { name: true } } },
+  });
+}
