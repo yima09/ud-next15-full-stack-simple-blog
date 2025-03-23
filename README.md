@@ -113,8 +113,8 @@ https://nextjs.org/docs/pages/api-reference/components/image
 % touch src/components/post/SearchBox.tsx
 ```
 
+### 記事一覧ページで検索できるように対応する
 
 
 
-62. 記事一覧ページで検索できるように対応する
 
