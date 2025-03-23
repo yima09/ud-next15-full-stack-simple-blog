@@ -83,3 +83,11 @@ https://ui.shadcn.com/docs/components/navigation-menu のUsage コピペ編集�
 % touch src/types/post.ts
 ```
 
+### 記事一覧向け カードコンポーネント
+
+https://ui.shadcn.com/docs/components/card のUsage コピペ編集。
+
+```bash
+% mkdir src/components/post
+% touch src/components/post/PostCard.tsx
+```
