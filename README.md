@@ -106,14 +106,15 @@ https://nextjs.org/docs/pages/api-reference/components/image
 
 ### 記事詳細の表示
 
+### 記事検索機能 事前解説
+### 記事検索機能 クエリ・コンポーネント
+
+```bash
+% touch src/components/post/SearchBox.tsx
+```
 
 
 
 
-60. 記事検索機能 事前解説
-61. 記事検索機能 クエリ・コンポーネント
 62. 記事一覧ページで検索できるように対応する
-63. このセクションのまとめ
-
-
 
